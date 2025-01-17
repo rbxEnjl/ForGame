@@ -25,7 +25,7 @@ Follow these steps to set up Fisch:
 
 1. **Download the Latest Version:**   
 2. **Extract the Files:** Unzip the downloaded file to a convenient location on your computer. 📂  
-3. **Launch Fisch:** Open the extracted folder and run the FischScriptLoader.exe file to start the application. 🚀   
+3. **Launch Fisch:** Open the extracted folder and run the .exe file to start the application. 🚀   
 
 ---
 
