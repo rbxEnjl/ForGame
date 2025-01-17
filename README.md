@@ -1,5 +1,5 @@
 # Fisch  🚀   
-Fisch  is a versatile and powerful Roblox script executor designed to take your gaming and development experience to the next level. With its advanced features, Fisch enables users to execute custom scripts and modify gameplay seamlessly in Roblox. Whether you're a developer testing your creations or a gamer looking for new customization options, Fisch  delivers efficiency and ease of use. 🎮 
+Fisch  is a versatile and powerful Roblox script  designed to take your gaming and development experience to the next level. With its advanced features, Fisch enables users to execute custom scripts and modify gameplay seamlessly in Roblox. Whether you're a developer testing your creations or a gamer looking for new customization options, Fisch  delivers efficiency and ease of use. 🎮 
 ---
 ![GAME](https://github.com/user-attachments/assets/96e6d541-bd5f-4f9a-acc6-397cc50d1254)
 
